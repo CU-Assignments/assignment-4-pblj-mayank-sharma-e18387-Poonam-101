@@ -1,0 +1,94 @@
+###EXPERIMENT 4.1 
+
+## Input Example :
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 1
+Enter Employee ID: 14969
+Enter Name: Aanchal
+Enter Salary: 850000
+
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 5
+
+1. Add Employee
+2. Update Employee
+3. Remove Employee
+4. Search Employee
+5. Display All Employees
+6. Exit
+Enter your choice: 6
+
+
+## Output Example :
+Employee added successfully!
+
+Employee ID: 14969
+Name: Aanchal
+Salary: 850000.0
+
+Exiting program...
+--------------------------------------------------------------------------------------------------------------------
+
+###EXPERIMENT 4.2
+## Input/Output Example:
+1. Add Card
+2. Search by Symbol
+3. Display All Cards
+4. Exit
+Enter your choice: 1
+Enter Symbol (Hearts, Diamonds, etc.): Diamonds
+Enter Rank (Ace, 2, King, etc.): Ace
+Card added successfully!
+1. Add Card
+2. Search by Symbol
+3. Display All Cards
+4. Exit
+Enter your choice: 1
+Enter Symbol (Hearts, Diamonds, etc.): Club
+Enter Rank (Ace, 2, King, etc.): Jack
+Card added successfully!
+1. Add Card
+2. Search by Symbol
+3. Display All Cards
+4. Exit
+Enter your choice: 3
+Symbol: Diamonds, Rank: Ace
+Symbol: Club, Rank: Jack
+1. Add Card
+2. Search by Symbol
+3. Display All Cards
+4. Exit
+Enter your choice: 4
+Exiting program...
+ 
+Enter PIN: 1234
+Withdraw Amount: 5000
+Error: Insufficient balance.
+Current Balance: 3000.0
+--------------------------------------------------------------------------------------------------------------------
+
+##EXPERIMENT 4.3
+### Input/Output Example:
+VIP Booking 1: Seat 10 confirmed.
+VIP Booking 1: Seat 9 confirmed.
+VIP Booking 1: Seat 8 confirmed.
+VIP Booking 1: Seat 7 confirmed.
+VIP Booking 1: Seat 6 confirmed.
+VIP Booking 2: Seat 5 confirmed.
+VIP Booking 2: Seat 4 confirmed.
+VIP Booking 2: Seat 3 confirmed.
+VIP Booking 2: Seat 2 confirmed.
+VIP Booking 2: Seat 1 confirmed.
+Regular Booking 1: Error: Seat already booked.
+Regular Booking 2: Error: Seat already booked.
+VIP Booking 1: Error: Seat already booked.
